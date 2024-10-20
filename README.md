@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-frontendmentorprofile-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://www.frontendmentor.io/profile/Kehinde13)](https://www.frontendmentor.io/profile/Kehinde13) [![Linkedin Badge](https://img.shields.io/badge/-kehindeBalogun-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kehinde-balogun-9a1078223)](https://www.linkedin.com/in/kehinde-balogun-9a1078223) 
+[![Website Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://kehindebalogun.netlify.app/)](https://kehindebalogun.netlify.app/) [![Linkedin Badge](https://img.shields.io/badge/-kehindeBalogun-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kehinde-balogun-9a1078223)](https://www.linkedin.com/in/kehinde-balogun-9a1078223) 
 
 I'm a Software Engineer, FrontEnd Engineer.
 
