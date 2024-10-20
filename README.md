@@ -8,9 +8,9 @@ I'm a Software Engineer, FrontEnd Engineer.
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Vue.
-- 😊 I am on the look out for open source projects, hackathons, internships, and entry-level opportunities
-- 💼 Job interests: Software Engineer, FrontEnd Engineer (Intern or Junior level).
+- 🌱 Proficient in JavaScript and TypeScript 
+- 😊 I am on the look out for open source projects, hackathons
+- 💼 Job interests: Software Engineer, FrontEnd Engineer.
 - 📫 You can contact me by emailing balogunkehinde3@gmail.com.
 
 ---
